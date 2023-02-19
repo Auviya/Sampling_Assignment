@@ -28,6 +28,7 @@ On applying these models we got results as displayed in the Results.png file in 
 
 
 1. The Random Forest performs the best and SVM Classifier performs the worst across all samples 
+
 2.Cluster Sampling Provided the best overall accuracy and SRS with 95% the worst 
 
 
