@@ -24,7 +24,9 @@ On these 5 samples we have applied 5 different models each as follows:
 
 All these have been chosen keeping in mind he initial imbalance in data and also the fact that this is a binary classification problem.
 
-On applying these models we got results as displayed in the png file in this repository that helps us to make the following conclusions
+On applying these models we got results as displayed in the Results.png file in this repository.You will also find TOPSIS analysis for all models and samples that helps us to make the following conclusions
+
+
 1. The Random Forest performs the best and SVM Classifier performs the worst across all samples 
 2.Cluster Sampling Provided the best overall accuracy and SRS with 95% the worst 
 
